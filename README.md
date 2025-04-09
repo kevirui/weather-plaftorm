@@ -50,6 +50,8 @@ VITE_OPENWEATHER_API_KEY=tu_api_key
 5. Accedé desde el navegador: http://localhost:5173
 
 ## 📦 Estructura del proyecto
+
+```md
 src/
 ├── components/
 │   ├── Alert/
@@ -70,6 +72,7 @@ src/
 │   └── index.ts
 ├── App.tsx
 ├── main.tsx
+```
 
 ## ❗ Errores y manejo
 
