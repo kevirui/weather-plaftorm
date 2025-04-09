@@ -29,11 +29,13 @@ _(Acá podés insertar imágenes de tu app en funcionamiento si querés)_
    ```bash
    git clone https://github.com/kevirui/weather-plaftorm.git
    cd weather-app
+   ```
 
 2. Instalá las dependencias:
 
   ```bash
   npm install
+  ```
 
 3. Creá un archivo .env en la raíz del proyecto y agregá tu clave de la API de OpenWeather:
 
@@ -43,6 +45,7 @@ VITE_OPENWEATHER_API_KEY=tu_api_key
 
   ```bash
   npm run dev
+  ```
 
 5. Accedé desde el navegador: http://localhost:5173
 
